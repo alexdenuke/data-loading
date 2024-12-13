@@ -1,0 +1,3162 @@
+[
+  {
+    "name": "MODEL-1",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MODEL-1.4",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MODEL-1.6",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PLAYdifferently",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-02",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-22",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-23",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-23C",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-32",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-42",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-43",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-43C",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-464",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-62",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-92",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-96",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-DB2",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-DB4",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-PX5",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-S2",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-S6",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Xone-V6",
+    "model_brand": "Allen Heath",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Avantis",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "Avantis Solo",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CQ-12T",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CQ-18T",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CQ-20B",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-C1500",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-C2500",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-C3500",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-CTi1500",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-DM0",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-S3000",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-S5000",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "dLive-S7000",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "GLD112",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "GLD280",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "GLD80",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-112",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-144",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-176",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-80",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-R72",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-T112",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "iLive-T80",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "ME-1",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "ME-500",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "Qu-16",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "Qu-24",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "Qu-32",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "SQ-5",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "SQ-6",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "SQ-7",
+    "model_brand": "Allen Heath",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "AEM-100",
+    "model_brand": "Audio Innovate",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DDM-4000",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJX-400",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJX-700",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJX-750",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJX-900USB",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DX-052",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DX-100",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DX-2000",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DX-500",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DX-626",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "NOX-101",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "VMX-100",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "VMX-1000",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "VMX-200",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "VMX-300",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "VMX-300USB",
+    "model_brand": "Behringer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "WING",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "X32",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "X32-COMPACT",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "X32-PRODUCER",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "X32-RACK",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "XR12",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "XR16",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "XR18",
+    "model_brand": "Behringer",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "MC2000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MC3000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MC4000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MC6000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MC6000MK2",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MC7000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "MCX8000",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "Prime2",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "Prime4",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "PrimeGO",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "SCLIVE2",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "SCLIVE4",
+    "model_brand": "Denon",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "X050",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X100",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1100",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X120",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1500",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1500S",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1600",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1700",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1800",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1850",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X400",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X500",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X600",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X900",
+    "model_brand": "Denon",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DDM-2000",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DDM-3000",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-1M",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-1S",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-1W",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-2S",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-2SMK2",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-4S",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-M2",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DIF-X",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DJM-101",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DJM-303",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DX3000USB",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "HANDYKUTZ",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M10",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MIXERONE",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MX-120USB",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "TR-S1",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "TRX",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "TRXW",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X10",
+    "model_brand": "DJ-Tech",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "AC-6",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Compact 8",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Compact-4BT",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Compact-5",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "EVO-4",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "EVO-5",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Hak-300",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Hak-360",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "Hak-380",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MAC-40V",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MAC-70I",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MAC-70V",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MAC-90V",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-2",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-2.0",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-3",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-3.0",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-4",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-4.0",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "NUO-5",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SCLAT-200-5L",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SCLAT-200-8L",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-32",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-42",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-FIRST",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-PRO20",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-PRO3",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-PRO4",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMAC-PRO40",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "WARM-2",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "WARM-4",
+    "model_brand": "Ecler",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "200FX",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "200FXMK2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "5000FX",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "AVM01",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "C2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "C3FX",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "C3USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "CM-200",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "CM200MK3",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "CM200USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1000",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1001X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1002EX",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1002MK2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1050",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1090",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1090X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1100X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1125",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1150",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1175",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1180",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1190",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1200",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1235",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1275",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1295",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1425",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1500A",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1500W",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1550",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1635",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1650RM",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1685",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1700T",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1720X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1750RM",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1760",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1820X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1835X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1850",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1885X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1900",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1920X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1950",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM1975",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM2000X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM2002X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM2050",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM2060",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM3000X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM3001X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM3002X",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM3050",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM500",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM900",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM900EX",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM905",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM925",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM950",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DM950USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXM01",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXM01USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXM03",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXM06",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXM09",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DXMPRO",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "EM-260",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "EM-460",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "iM1",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "iM9",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M1",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M101",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M101USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M1USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M2Numark",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M3",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M4Numark",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M6",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M6USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M6USBBlack",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M8",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MATRIX2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MATRIX3",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PPD01",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PPD9000",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PROSM-1",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PROSM-2",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SCRATCH",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X1USB",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X5",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X6",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "X9",
+    "model_brand": "Numark",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DDJ-1000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-1000OW",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-1000SRT",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-1000SRTN",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-1000SRTW",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-200",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-400",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-400N",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-400S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-800",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-ERGO",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-ERGOW",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-FLX10",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-FLX4",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-FLX6",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-FLX6W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-RB",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-REV1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-REV1N",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-REV5",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-REV7",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-REV7N",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-RR",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-RX",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-RZ",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-RZX",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-S1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SB",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SB2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SB3",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SB3N",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SB3S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SBL",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SBR",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SBS",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SP1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SR",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SR2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SX",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SX2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SX3",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SXN",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SXW",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SZ",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SZ2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-SZG",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-T1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGO2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo2R",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo2W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo3",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo3R",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo3W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo4",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGo4W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGoG",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGoR",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGoV",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-WeGoW",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-XP1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DDJ-XP2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "OMNISDUO",
+    "model_brand": "Pioneer",
+    "model_category": "DJ Контроллеры"
+  },
+  {
+    "name": "DJM-1000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-2000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-2000NXS",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-250MK2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-300",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-3000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-300S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-350",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-350W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-400",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-4000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-450",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-500",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-5000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-600",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-600S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-700",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-700S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-707",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-750",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-750MK2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-750S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-800",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-850",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-850S",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-850W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-900NXS",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-900NXS2",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-900NXS2W",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-900SRT",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-909",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-A9",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S11",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S3",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S5",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S7",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S9",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-S9N",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-T1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-TOUR1",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-V10",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "DJM-V10LF",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "EUPHONIA",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "SVM-1000",
+    "model_brand": "Pioneer",
+    "model_category": "DJ микшеры"
+  },
+  {
+    "name": "OPUSQUAD",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-AERO",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-AEROW",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-R1",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-RR",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-RX",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-RX2",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-RX2W",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-RX3",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-XZ",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-XZN",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "XDJ-XZW",
+    "model_brand": "Pioneer",
+    "model_category": "Dj Системы"
+  },
+  {
+    "name": "PLX-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "PLX-1000N",
+    "model_brand": "Pioneer",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "PLX-500",
+    "model_brand": "Pioneer",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "PLX-CRSS12",
+    "model_brand": "Pioneer",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "CDJ-100",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-1000MK2",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-1000MK3",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-100S",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-200",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000-2",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000NXS",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000NXS2",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000NXS2W",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000NXSM",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-2000W",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-3000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-3000W",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-350",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-350S",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-350W",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-400",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-500",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-500G",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-500II",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-500S",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-700S",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-800",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-800MK2",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-850S",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-850W",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-900",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-900NXS",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CDJ-TOUR1",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CMX-3000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "CMX-5000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "DMP-555",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "DVJ-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "DVJ-X1",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "MEP-4000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "MEP-7000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "XDJ-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "XDJ-1000MK2",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "XDJ-700",
+    "model_brand": "Pioneer",
+    "model_category": "Проигрыватели CDJ DVJ XDJ"
+  },
+  {
+    "name": "DJS-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Семплеры"
+  },
+  {
+    "name": "TAS-1",
+    "model_brand": "Pioneer",
+    "model_category": "Семплеры"
+  },
+  {
+    "name": "TORAIZ-SQUID",
+    "model_brand": "Pioneer",
+    "model_category": "Семплеры"
+  },
+  {
+    "name": "TSP-16",
+    "model_brand": "Pioneer",
+    "model_category": "Семплеры"
+  },
+  {
+    "name": "EFX-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "EFX-500",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "EFX-500R",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "EFX-500S",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "RMX-1000",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "RMX-1000M",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "RMX-1000W",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "RMX-500",
+    "model_brand": "Pioneer",
+    "model_category": "Эффекторы"
+  },
+  {
+    "name": "M.201",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.202",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.203",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.207",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.212",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.303",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.304",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "M.505",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM-22",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM-3S",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM-50",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM-80",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM-THREE",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM.100",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM.402",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM.404",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM.406",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "RM.416",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA-12",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA-3",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA-5",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA-8",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA.3",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SA.5",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SK-1",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SK-2F",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SK-4",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SK-6",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SK-6F",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-201",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-202",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-211",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-301",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-311",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-401",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SMX-501",
+    "model_brand": "Stanton",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "SL-1200GLD",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200GR",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200GRS",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200GS",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200LTD",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK1",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK2",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK2S",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK3",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK3D",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK3DS",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK6",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK6S",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK7",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1200MK7S",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210G",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210GAE",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210MK5",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210MK5S",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210MK7",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "SL-1210MK7S",
+    "model_brand": "Technics",
+    "model_category": "Вертушки"
+  },
+  {
+    "name": "PAD-One",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "S-1",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "SPIN",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "SPIN2",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "SPIN2RED",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "TR-1",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "TR-1BLACK",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "TUB-2",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "TYPHOON",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "TYPHOONRED",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VAI-80",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VAI-80TANK",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-100",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-100Golden",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-100MK2",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-100SE",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-300",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-300MK2",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-300Pink",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-380",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-380 WHITE",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-380RED",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-400",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-400DJ",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-400EAN",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-400ONE",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCI-400TR",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCM-100",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCM-600",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VCM-600Black",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "VFX-1",
+    "model_brand": "Vestax",
+    "model_category": "Dj Контроллеры"
+  },
+  {
+    "name": "DSM-308",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-309",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-310",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-310B",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-310PRO",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-330S",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-360",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-410",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "DSM-420",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "FADERBOARD",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "GUBER 180G",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MCR-1",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MDM-410",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "MW-3000",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-002",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-003",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-150",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-175",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-180",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PCV-275",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-005",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-005AMK2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-007",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-01A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-03A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05FX",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05MK2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05MK4",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro3",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro3DX",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro3VCA",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro4BLK",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Pro4RED",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05ProD",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05ProSLVCA",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-05Trix",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-06Pro",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-06ProA",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-06ProD",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-06ProVCA",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-06T",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-07Pro",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-07Pro25th",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-07ProBLK",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-07ProD",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-07ProISP",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-08Pro",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-08ProBlack",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-08ProWhate",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-09A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-15",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-15MK2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-15SL",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-170A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-17A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-20",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-205L",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-20S",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-20SL",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-25",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-250",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-26",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-270A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-275",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-27MK2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-280",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-37Pro",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-40",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-400",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-41",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-46",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-46MK2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-500",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-500CX",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-50A",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-55",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-580PRO",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "PMC-CX",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "R-1",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "R-2",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "R-3",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "STP-Phoenix",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-002",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-002XL",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-002XLu",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-004",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-004FX",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-004FXu",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-004XL",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-004XLu",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-180",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "VMC-185XL",
+    "model_brand": "Vestax",
+    "model_category": "DJ Микшеры"
+  },
+  {
+    "name": "01V",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "01V96I",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "02R",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "02R96VCM",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "03D",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "AW4416",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CL1",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CL3",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "CL5",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "DM1000VCM",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "DM2000VCM",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "LS9-16",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "LS9-32",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "M7CL-32",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "M7CL-48",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "M7CL-48ES",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "PM5D",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "PM5D-RH",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "QL1",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "QL5",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "TF1",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "TF3",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  },
+  {
+    "name": "TF5",
+    "model_brand": "Yamaha",
+    "model_category": "Цифровые многоканальные микшеры"
+  }
+]
